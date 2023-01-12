@@ -33,6 +33,8 @@
 // https://stackoverflow.com/questions/18328730/how-to-create-a-release-signed-apk-file-using-gradle
 // https://www.ibm.com/docs/en/rational-change/5.3.0?topic=https-generating-keystore-files
 // https://stackoverflow.com/questions/57990519/you-uploaded-an-apk-or-android-app-bundle-that-was-signed-in-debug-mode
+// https://stackoverflow.com/questions/50898926/android-studio-build-on-debug-but-not-on-release
+// https://github.com/facebook/react-native/issues/35583
 #### Information References:
 // https://www.youtube.com/watch?v=Hf4MJH0jDb4
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
