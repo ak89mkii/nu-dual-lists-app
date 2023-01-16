@@ -2,10 +2,10 @@
   "expo": {
     "name": "AwesomeProject",
     "slug": "AwesomeProject",
-    "version": "1.0.0",
+    "version": "1.5.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/main.png",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -22,9 +22,10 @@
       "bundleIdentifier": "com.ak89mkii.AwesomeProject"
     },
     "android": {
+      "versionCode": 2,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/main.png",
+        "backgroundColor": "#121212"
       },
       "package": "com.ak89mkii.AwesomeProject"
     },
