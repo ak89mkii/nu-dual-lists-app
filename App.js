@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { FlatList, StyleSheet, Text, ScrollView, View, Alert, Image, TouchableOpacity } from 'react-native';
+import { FlatList, StyleSheet, Text, ScrollView, View, Alert, Image, TouchableOpacity, StatusBar } from 'react-native';
 import Header from './components/Header';
 import AddItemHeader from './components/AddItemHeader';
 import CartItemHeader from './components/CartItemHeader';
@@ -100,6 +100,9 @@ const App = () => {
 
   return (
     <View style={styles.container}>
+       <StatusBar
+        backgroundColor="#000000"
+      />
       <ScrollView>
         <Header />
         <AddItem addItem={addItem} items={items}/>
