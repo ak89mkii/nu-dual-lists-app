@@ -57,6 +57,15 @@ const App = () => {
       console.log(items)
       await AsyncStorage.setItem('list', JSON.stringify(items));
       await AsyncStorage.setItem('cart', JSON.stringify(carts));
+      Alert.alert(
+        "List Saved:",
+        "The current state of your list is now saved.",
+        [
+          {
+            text: "Dismiss",
+          },
+        ],
+      );   
     } catch (e) {
       // saving error
     }
@@ -84,19 +93,6 @@ const App = () => {
   useEffect(() => {
     getData();
   }, []);
-
-  // // Got premium licensed version, so not required.
-  // const devCredits = text => {
-  //   Alert.alert(
-  //     "Develpment Credits:",
-  //     "Developed by Ponder Code & Icons by HideMaru, Gregor Cresnar, iconixar, Maxicons. Links in GitHub README.md | https://github.com/ak89mkii/shop-list-app.",
-  //     [
-  //       {
-  //         text: "Ok",
-  //       },
-  //     ],
-  //   );   
-  // }
 
   return (
     <View style={styles.container}>

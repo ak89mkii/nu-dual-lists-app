@@ -56,6 +56,7 @@
 // https://stackoverflow.com/questions/53378354/upgrading-react-native-to-latest-version
 // https://stackoverflow.com/questions/64573177/unable-to-resolve-dependency-tree-error-when-installing-npm-packages
 // https://stackoverflow.com/questions/52564042/expo-with-android-studio-emulator-error-error-running-adb-this-computer-is-no
+// https://reactnative.dev/docs/statusbar
 #### Images References / Credits:
 // HideMaru: https://thenounproject.com/icon/add-3367120/
 // Gregor Cresnar: https://thenounproject.com/icon/cart-1015699/
@@ -65,3 +66,5 @@
 #### Fonts / Credits:
 // https://fonts.google.com/specimen/Roboto
 // https://fonts.google.com/specimen/Righteous?preview.text=DUAL-LISTS&preview.text_type=custom#standard-styles# nu-dual-lists-app
+// https://fonts.google.com/specimen/Caveat+Brush?preview.text=Dual-Lists%202&preview.text_type=custom&query=Brush
+// https://www.google.com/search?q=black+hex+code&rlz=1C5CHFA_enUS928US928&oq=black+hex&aqs=chrome.0.0i20i263i433i512j69i57j0i512j0i131i433i512j0i512l6.1897j1j7&sourceid=chrome&ie=UTF-8
