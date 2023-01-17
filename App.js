@@ -96,8 +96,8 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-       <StatusBar
-        backgroundColor="#000000"
+      <StatusBar
+        barStyle="white"
       />
       <ScrollView>
         <Header />
@@ -148,6 +148,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingTop: 60,
+    backgroundColor: 'lightgrey'
   },
   imageContainer: {
     justifyContent: 'center',

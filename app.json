@@ -2,7 +2,7 @@
   "expo": {
     "name": "AwesomeProject",
     "slug": "AwesomeProject",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/main.png",
     "userInterfaceStyle": "dark",
@@ -22,7 +22,7 @@
       "bundleIdentifier": "com.ak89mkii.AwesomeProject"
     },
     "android": {
-      "versionCode": 2,
+      "versionCode": 3,
       "adaptiveIcon": {
         "foregroundImage": "./assets/main.png",
         "backgroundColor": "#121212"

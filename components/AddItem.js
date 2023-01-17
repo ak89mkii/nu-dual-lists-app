@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
         height: 60,
         padding: 15,
         fontSize: 16,
+        // backgroundColor: 'white',
         flexDirection: 'row',
     },
     btn: {
