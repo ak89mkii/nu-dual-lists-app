@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
-    "version": "3.0.0",
+    "name": "Dual-Lists 2",
+    "slug": "Dual-Lists 2",
+    "version": "4.0.0",
     "orientation": "portrait",
     "icon": "./assets/main.png",
     "userInterfaceStyle": "dark",
@@ -22,7 +22,7 @@
       "bundleIdentifier": "com.ak89mkii.AwesomeProject"
     },
     "android": {
-      "versionCode": 3,
+      "versionCode": 4,
       "adaptiveIcon": {
         "foregroundImage": "./assets/main.png",
         "backgroundColor": "#121212"
