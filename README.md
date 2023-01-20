@@ -57,6 +57,7 @@
 // https://stackoverflow.com/questions/64573177/unable-to-resolve-dependency-tree-error-when-installing-npm-packages
 // https://stackoverflow.com/questions/52564042/expo-with-android-studio-emulator-error-error-running-adb-this-computer-is-no
 // https://reactnative.dev/docs/statusbar
+// https://stackoverflow.com/questions/34794679/change-app-name-in-react-native
 #### Images References / Credits:
 // HideMaru: https://thenounproject.com/icon/add-3367120/
 // Gregor Cresnar: https://thenounproject.com/icon/cart-1015699/
